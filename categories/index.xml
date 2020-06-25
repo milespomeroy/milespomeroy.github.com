@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Miles Pomeroy</title>
+    <link>http://milespomeroy.github.io/categories/</link>
+    <description>Recent content in Categories on Miles Pomeroy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://milespomeroy.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://milespomeroy.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 24 Jun 2020 17:50:35 -0600</pubDate>
+      
+      <guid>http://milespomeroy.github.io/posts/my-first-post/</guid>
+      <description>hello</description>
+    </item>
+    
+    
+  </channel>
+</rss>
